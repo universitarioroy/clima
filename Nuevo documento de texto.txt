@@ -1,0 +1,19 @@
+librerias para peticiones web
+
+npm request =>
+axios	    =>trabaja en base a promesas
+
+
+libreria de google para obtener el geocode api 
+*key
+
+libreria para obtener el clima 
+*OpenWeatherMap
+
+Key=851538a5c1d38213508a0e7553c69415
+
+http://api.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid=851538a5c1d38213508a0e7553c69415
+
+
+para tener los grados en formato metrico
+http://api.openweathermap.org/data/2.5/weather?lat=35&lon=139&units=metric&appid=851538a5c1d38213508a0e7553c69415
